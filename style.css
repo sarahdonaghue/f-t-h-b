@@ -384,39 +384,39 @@ h3{
     color: #fff;
 }
 
-/* blog content */
+/* shop content */
 
-.blog-content{
+.shop-content{
     width: 80%;
     margin: auto;
     padding: 60px;
 }
-.blog-left{
+.shop-left{
     flex-basis: 65%;
 }
-.blog-left img{
+.shop-left img{
     width: 100%;
 }
-.blog-left h2{
+.shop-left h2{
     color: #222;
     font-weight: 600;
     margin: 0;
 }
-.blog-left p{
+.shop-left p{
     color: #999;
     padding: 0;
 }
-.blog-right{
+.shop-right{
     flex-basis: 32%;
 }
-.blog-right h3{
+.shop-right h3{
     background: #f44336;
     color: #fff;
     padding: 7px 0;
     font-size: 16px;
     margin-bottom: 20px;
 }
-.blog-right div{
+.shop-right div{
     display: flex;
     align-items: center;
     justify-content: space-between;
